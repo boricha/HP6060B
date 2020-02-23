@@ -1,6 +1,6 @@
 # HP6060B
 HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
-![alt text](https://github.com/boricha/M202MD08A/blob/master/src/tada.jpg)
+![alt text](https://github.com/boricha/HP6060B/blob/master/tada.jpg)
 
 /*
  * $Id: main.c 3:06 PM 11/28/2019 ssk  $
@@ -50,8 +50,7 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 * aka. LSB First
 
 ## Pinout
-![alt text](https://github.com/boricha/M202MD08A/blob/master/src/pinout.jpg)        
+![alt text](https://github.com/boricha/HP6060B/blob/master/src/pinout.jpg)        
 ## Schematic
-![alt text](https://github.com/boricha/M202MD08A/blob/master/schematic/schematic.jpg)
-## Eliminating Unnecessary Parts(Optional)
-![alt text](https://github.com/boricha/M202MD08A/blob/master/src/RemoveParts.jpg)
+![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/hp6060b v1.5.jpg)
+
