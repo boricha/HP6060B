@@ -53,7 +53,7 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 ## Digial Waveform
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/singleMF.png)        
 ## Message Frame Structure(MF)
-![alt text](https://github.com/boricha/HP6060B/blob/master/src/MessageFrame.jpg)   
+![alt text](https://github.com/boricha/HP6060B/blob/master/src/command.jpg)   
 ## Modeling Event Based Behavior
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/brief.jpg)   
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/state.jpg)   
