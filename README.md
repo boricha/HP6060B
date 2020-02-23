@@ -49,23 +49,21 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 * Remembering that bits are transmitted from least significant bit (LSB) to most significant bit (MSB),
 * aka. LSB First
 
-## Digial waveform
+## Digial Waveform
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/singleMF.png)        
 ## Message Frame Structure(MF)
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/MessageFrame.jpg)   
-## Modeling Even Based Behavior
+## Modeling Event Based Behavior
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/brief.jpg)   
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/state.jpg)   
-## Schematic
+## Schematics
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/hp6060bv1.5.jpg)
 ## PCB(top)
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/top(oshpark).png)
 ## PCB(bottom)
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/bottom(oshpark).png)
 ## Special thanks to:
-I adapted this Article.
-
 LED display for HP 3457A multimeter - I did it :-) (https://www.eevblog.com/forum/projects/led-display-for-hp-3457a-multimeter-i-did-it-)/)
-
+I adapted this Aricle.
 述而不作.
 
