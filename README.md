@@ -31,6 +31,7 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
  *
 */
 
+<pre>
 * The command was originally 10bits LSB First,
 * but since the first 2 bits are always 0 and atmel SPI is 8bit system
 * Accordingly 8Bits is used here
@@ -45,6 +46,7 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 * |    5|C Register    |0x0a8|0b0010101000|0b00101010|0x2a|
 * |    6|Display On/Off|0x320|0b1100100000|0b11001000|0xc8|
 * +-----+--------------+------------------+---------------+
+</pre>
 *
 * Remembering that bits are transmitted from least significant bit (LSB) to most significant bit (MSB),
 * aka. LSB First
