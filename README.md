@@ -50,9 +50,9 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 * aka. LSB First
 
 ## Digial waveform
-![alt text](https://github.com/boricha/HP6060B/blob/master/src/singleMF.jpg)        
+![alt text](https://github.com/boricha/HP6060B/blob/master/src/singleMF.png)        
 ## Message Frame Structure(MF)
-![alt text](https://github.com/boricha/HP6060B/blob/master/src/messageframe.jpg)        
+![alt text](https://github.com/boricha/HP6060B/blob/master/src/MessageFrame.jpg)        
 ## Schematic
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/hp6060bv1.5.jpg)
 ## PCB(top)
