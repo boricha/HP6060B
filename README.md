@@ -59,6 +59,8 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 ![alt text](https://github.com/boricha/HP6060B/blob/master/src/state.jpg)   
 ## Schematics
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/hp6060bv1.5.jpg)
+## BOM(Bill of materials)
+![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/hp6060bv1.5(bom).png)
 ## PCB(top/bottom)
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/top(oshpark).png)
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/bottom(oshpark).png)
