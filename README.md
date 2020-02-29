@@ -65,9 +65,8 @@ HP 6060B 3-60V/0-60A 300W SYSTEM DC ELECTRONIC LOAD  Graphic LCD Bridge
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/top(oshpark).png)
 ![alt text](https://github.com/boricha/HP6060B/blob/master/schematic/bottom(oshpark).png)
 ## Special thanks to:   :+1: 
-[LED display for HP 3457A multimeter - I did it :-)]
-https://www.eevblog.com/forum/projects/led-display-for-hp-3457a-multimeter-i-did-it-)/
-
+[LED display for HP 3457A multimeter - I did it :-)]<BR>
+https://www.eevblog.com/forum/projects/led-display-for-hp-3457a-multimeter-i-did-it-)/ <BR>
 I adapted this Aricle.
 
 
